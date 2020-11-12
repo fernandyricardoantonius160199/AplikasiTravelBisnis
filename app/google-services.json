@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342203135947",
+    "firebase_url": "https://aplikasitravelbisnis.firebaseio.com",
+    "project_id": "aplikasitravelbisnis",
+    "storage_bucket": "aplikasitravelbisnis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342203135947:android:3173c3494300fa9b70684e",
+        "android_client_info": {
+          "package_name": "com.example.aplikasitravelbisnis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342203135947-uqk6vuta7orju0lu2c6a795chaldni37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4oFbFwPn-v7Dnk184sjv4kXJR9brH8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342203135947-uqk6vuta7orju0lu2c6a795chaldni37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
